@@ -1,0 +1,3 @@
+fps: 30
+h?yde: 480
+bredde: 640
